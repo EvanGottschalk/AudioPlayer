@@ -151,15 +151,15 @@ Thinking about contributing to this project? Please do! Your Github username wil
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/EvanGottschalk/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/EvanGottschalk/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/EvanGottschalk/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/EvanGottschalk/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/EvanGottschalk/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/EvanGottschalk/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/EvanGottschalk/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/EvanGottschalk/repo/issues
-[license-shield]: https://img.shields.io/github/license/EvanGottschalk/repo.svg?style=for-the-badge
-[license-url]: https://github.com/EvanGottschalk/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/EvanGottschalk/AudioPlayer.svg?style=for-the-badge
+[contributors-url]: https://github.com/EvanGottschalk/AudioPlayer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/EvanGottschalk/AudioPlayer.svg?style=for-the-badge
+[forks-url]: https://github.com/EvanGottschalk/AudioPlayer/network/members
+[stars-shield]: https://img.shields.io/github/stars/EvanGottschalk/AudioPlayer.svg?style=for-the-badge
+[stars-url]: https://github.com/EvanGottschalk/AudioPlayer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/EvanGottschalk/AudioPlayer.svg?style=for-the-badge
+[issues-url]: https://github.com/EvanGottschalk/AudioPlayer/issues
+[license-shield]: https://img.shields.io/github/license/EvanGottschalk/AudioPlayer.svg?style=for-the-badge
+[license-url]: https://github.com/EvanGottschalk/AudioPlayer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/EvanGottschalk
